@@ -1,9 +1,7 @@
 # test_zavod
-## Тестовое задание, реализован необходимый функционал
-- Теги новостей
-- Заполнение новостей в админке
-- Новости состоят из заголовка, картинки, текста, тегов
+## Test task for Zavod
+- News tags
+- Usage of admin panel for news creating
+- News consist header, picture, text and tags
 
-Забыл гитигнор но бд все равно пустая
-
-**ДЕБАГ ВКЛЮЧЕН**
+**DEBUG MODE IS ON**
